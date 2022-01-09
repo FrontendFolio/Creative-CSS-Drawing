@@ -6,14 +6,14 @@ Followingalong with the [Creative CSS Drawing course](https://www.udemy.com/cour
 
 ## Lessons/drawings
 
-### [01 Diamond](/01_Diamond/)
+### [01 Diamond](https://frontendfolio.github.io/Creative-CSS-Drawing/01_Diamond/)
 
 image to be added
 
-### [02 Envelope](/02_EnvelopeHeart/) with beating heart
+### [02 Envelope](https://frontendfolio.github.io/Creative-CSS-Drawing/02_EnvelopeHeart/) with beating heart
 
 image to be added
 
-### [Pepsi logo](/03_PepsiLogo)
+### [Pepsi logo](https://frontendfolio.github.io/Creative-CSS-Drawing/03_PepsiLogo)
 
 image to be added
